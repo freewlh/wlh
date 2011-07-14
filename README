@@ -1,0 +1,24 @@
+TRANSLATION PROTOCOL
+
+1. The Chinese article should be broken into lines, while keeping paragraph
+breaks. Each line is preceded with ">>" so that it is clear.
+
+2. Below each line, append the English translation, for easy comparison.
+
+3. At the end of each completed English translation, append your initial. For
+example, [W] or [G], etc. A line without initial would mean that it is still
+work in progress.
+
+4. A line with two initials, e.g., [W][G], would mean that it has been first
+translated by [W], and then verified by [G]. (So this line is essentially
+done).
+
+5. If there are doubts or discussion, then put something like [W: comment] by
+the phrase of discussion (any where in the sentence), where W is your initial
+and "comment" can be any thing.
+
+6. After all lines are completed, it is easy to remove all >> lines, and all
+[.] comments.
+
+7. Make sure that paragraph breaks (empty lines) are preserved - no deletion
+or addition, unless breaking into paragraphs improves readability.
